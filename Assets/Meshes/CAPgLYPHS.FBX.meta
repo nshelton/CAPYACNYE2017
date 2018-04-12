@@ -1,0 +1,223 @@
+fileFormatVersion: 2
+guid: bdc315cd6203a044e813db9150fe7ab8
+timeCreated: 1514011420
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Camera
+    100002: //RootNode
+    100004: Curve
+    100006: Curve.001
+    100008: Curve.002
+    100010: Curve.003
+    100012: Curve.004
+    100014: Curve.005
+    100016: Curve.006
+    100018: Curve.007
+    100020: Curve.008
+    100022: Curve.009
+    100024: Curve.010
+    100026: Curve.011
+    100028: Curve.012
+    100030: Lamp
+    400000: Camera
+    400002: //RootNode
+    400004: Curve
+    400006: Curve.001
+    400008: Curve.002
+    400010: Curve.003
+    400012: Curve.004
+    400014: Curve.005
+    400016: Curve.006
+    400018: Curve.007
+    400020: Curve.008
+    400022: Curve.009
+    400024: Curve.010
+    400026: Curve.011
+    400028: Curve.012
+    400030: Lamp
+    2000000: Camera
+    2300000: Curve
+    2300002: Curve.001
+    2300004: Curve.002
+    2300006: Curve.003
+    2300008: Curve.004
+    2300010: Curve.005
+    2300012: Curve.006
+    2300014: Curve.007
+    2300016: Curve.008
+    2300018: Curve.009
+    2300020: Curve.010
+    2300022: Curve.011
+    2300024: Curve.012
+    3300000: Curve
+    3300002: Curve.001
+    3300004: Curve.002
+    3300006: Curve.003
+    3300008: Curve.004
+    3300010: Curve.005
+    3300012: Curve.006
+    3300014: Curve.007
+    3300016: Curve.008
+    3300018: Curve.009
+    3300020: Curve.010
+    3300022: Curve.011
+    3300024: Curve.012
+    4300000: Curve.012
+    4300002: Curve.011
+    4300004: Curve.010
+    4300006: Curve.009
+    4300008: Curve.008
+    4300010: Curve.007
+    4300012: Curve.006
+    4300014: Curve.005
+    4300016: Curve.004
+    4300018: Curve.003
+    4300020: Curve.002
+    4300022: Curve.001
+    4300024: Curve
+    10800000: Lamp
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SVGMat.001
+    second: {fileID: 2100000, guid: a1924d4b382103a4ea8d804db6bd5aa5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SVGMat.002
+    second: {fileID: 2100000, guid: cee37a24b5caea0439bcac1c1ae373e1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SVGMat.003
+    second: {fileID: 2100000, guid: db95e14c725de2d4dbf1e0a3cd4e9261, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SVGMat.004
+    second: {fileID: 2100000, guid: 0d256c50c3d03aa449d48f8d283462f7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SVGMat.005
+    second: {fileID: 2100000, guid: 92634e4696621db44aab20725642a102, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SVGMat.006
+    second: {fileID: 2100000, guid: 3a55f6a49a2b22e49ae109a10530004f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SVGMat.007
+    second: {fileID: 2100000, guid: ef9c490214df60d46bdca845fe879fae, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SVGMat.008
+    second: {fileID: 2100000, guid: 5c84f54a1490d0047a6009e9e4e19f5c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SVGMat.009
+    second: {fileID: 2100000, guid: 390bb59460dad1d43b415015bcb3dfaa, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SVGMat.010
+    second: {fileID: 2100000, guid: 5e4e76fcf80cad24db038269eb4ee343, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SVGMat.011
+    second: {fileID: 2100000, guid: 44faaf24b883d6546b3b79b4540b9e61, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SVGMat.012
+    second: {fileID: 2100000, guid: 7fa570c57e33d4145851c0f6b6297149, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SVGMat.013
+    second: {fileID: 2100000, guid: 26d1bea4984fe22488919045155c7278, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
